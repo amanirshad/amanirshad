@@ -1,4 +1,4 @@
-### Hey, This is Aman <img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">
+### Hey, This is Aman Irshad!<img src="https://github.com/thomasbnt/thomasbnt/blob/me/hi.gif" width="25px">
 
 
 - 📱 Currently working on [Android](https://www.android.com/intl/en_in/).
