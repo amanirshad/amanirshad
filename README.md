@@ -15,3 +15,12 @@ I build and run the platforms other engineers ship on. For ~4 years I've worked 
 
 Open to **SDE II / Platform / SRE** roles at product companies.
 📫 [LinkedIn](https://www.linkedin.com/in/amanirshad/) · [Portfolio](https://amanirshad.vercel.app)
+
+**Tech stack**
+- **Cloud:** Azure (AKS, Container Apps, Event Hubs, Entra ID) · AWS (EKS, IAM, MSK, RDS) · GCP (GKE, BigQuery, Composer, Dataproc)
+- **Kubernetes:** Kubernetes, Docker, Helm, KEDA, Istio/Envoy, OPA Gatekeeper, RBAC
+- **IaC & CI/CD:** Terraform, Ansible, Azure DevOps, GitHub Actions, Databricks Asset Bundles
+- **Observability:** Prometheus, Thanos, Grafana, Alertmanager, OpenTelemetry, Jaeger, EFK, CloudWatch
+- **Languages & data:** Go, Python, Bash, SQL · Kafka, Redis, PostgreSQL, Airflow
+
+**Certifications:** AZ-400 · AZ-104 · SC-300 · AZ-900 · DP-900 · GH-900 · AWS CLF-C02
